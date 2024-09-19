@@ -6,7 +6,7 @@ Android App to view an [NDI®](http://ndi.tv/)-Stream on a mobile phone.
 
 This app is in a very early development phase. Therefore it is not fully tested. It is possible that the app does not work stable and that there are some ui or- performance glitches. 
 
-# License
+# License1
 
 NDI® is a registered trademark of NewTek, Inc. Also visit http://ndi.tv/ for details.
 
