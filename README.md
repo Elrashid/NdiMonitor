@@ -1,5 +1,5 @@
 # NdiMonitor
-
+ .
 Android App to view an [NDI®](http://ndi.tv/)-Stream on a mobile phone. 
 
 # State of this project 
